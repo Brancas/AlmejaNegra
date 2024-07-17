@@ -6,6 +6,6 @@ import lombok.ToString;
 @Getter @Setter @ToString
 
 public class Category {
-    private int idCategory;
-    private String nameCategory;
+    private int id;
+    private String name;
 }
